@@ -1,0 +1,6 @@
+{
+  "name": "MLOps Dashboard & Job Runner",
+  "description": "A technical assessment environment for building, running, and observing reproducible ML batch jobs with full observability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
