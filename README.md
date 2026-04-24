@@ -1,4 +1,4 @@
-# Technical Assessment: MLOps Task 0
+# Technical Assessment: MLOps Task 
 
 This project demonstrates a minimal MLOps-style batch job environment built with React, Express, and TypeScript.
 
